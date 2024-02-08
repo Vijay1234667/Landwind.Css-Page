@@ -217,7 +217,7 @@
     font-weight: 500;
 }
 .hero-section h1{
-    font-weight: 800;
+    font-weight: 700;
     font-size: 38px;
 }
 .hero-section img{
@@ -253,8 +253,8 @@
 }
 
 .user-section h2{
-    font-weight: 700;
-    font-size: 29px;
+    font-weight: 600;
+    font-size: 23px;
 }
 
 .user-section i{
@@ -262,8 +262,8 @@
     color: #6c2bd9;
 }
 .user-section h3{
-    font-size: 22px;
-    font-weight: 700;
+    font-size: 17px;
+    font-weight: 600;
 }
 
 /* Micheal-Gough-section */
@@ -301,6 +301,10 @@
    border-radius: 8px;
    color: white;
    font-size: 15px;
+}
+.free-trial-section p{
+    font-size: 14px;
+    font-weight: 500;
 }
 .start-free h2{
     font-weight: 800;
